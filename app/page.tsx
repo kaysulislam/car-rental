@@ -39,7 +39,7 @@ export default async function Home() {
                         <h2 className="text-black text-xl font-bold">
                             Ooops, no results
                         </h2>
-                        <p>{allCars?.message}</p>
+                        <p>Error occurred</p>
                     </div>
                 )}
             </div>
